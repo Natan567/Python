@@ -1,0 +1,12 @@
+print("Exercicio 01")
+input("Digite seu nome:")
+nota1=float(input("Nota 01:"))
+#mostra as= nota 01
+nota2=float(input("Nota 02:"))
+#mostra a nota 02
+nota3=float(input("Nota 03:"))
+#mostra a nota 03
+mediafinal=((nota1*2)+(nota2*3)+(nota3*5))/10
+#Multiplica, as notas entre parentes e após divide por 10
+print("media final é:", mediafinal)
+#Resultado final da média.
